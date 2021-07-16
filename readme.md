@@ -21,6 +21,6 @@
 <br />
 <h3>I work with...</h3>
 <ul>
-	<li><a href="https://www.birdscripts.io/" target="__blank">BirdScripts</a>🔥</li>
+	<li><a href="https://www.birdscripts.io/" target="_blank">BirdScripts</a>🔥</li>
 	<li>Beyond Notify</li>
 </ul>
