@@ -19,7 +19,7 @@
 	<li>Java☕</li>
 </ul>
 <br />
-<h3>I work with...</h3>
+<h3>I'm working with...</h3>
 <ul>
 	<li><a href="https://www.birdscripts.io/" target="_blank">BirdScripts</a>🔥</li>
 	<li>Beyond Notify</li>
