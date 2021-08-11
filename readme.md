@@ -11,6 +11,7 @@
 	<li>Web Scraping🐞</li>
 	<li>Web Backend🧩</li>
 	<li>Web Apps🖥</li>
+	<li>E-Mail (IMAP/SMTP)📧</li>
 </ul>
 <br />
 <h3>Programming Languages:</h3>
